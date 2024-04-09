@@ -1,0 +1,10 @@
+[submodule "Citizen"]
+	path = Citizen
+	url = https://git.qiuwen.net.cn/Fork/mediawiki-skins-Citizen
+[submodule "Vector"]
+	path = Vector
+	url = https://git.qiuwen.net.cn/Mirror/mediawiki-skins-Vector
+	branch = REL1_39
+[submodule "Gongbi"]
+	path = Gongbi
+	url = https://git.qiuwen.net.cn/Qiuwen/mediawiki-skins-Gongbi
