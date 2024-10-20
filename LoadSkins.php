@@ -5,3 +5,4 @@ wfLoadSkin( 'Vector', "/www/wwwroot/mw-utils/YsArchives-Skins/Vector/skin.json" 
 
 $wgDefaultSkin = "Citizen";
 $wgCitizenSearchDescriptionSource = "textextracts";
+$wgCitizenEnableCollapsibleSections = false;
