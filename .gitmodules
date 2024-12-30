@@ -4,7 +4,7 @@
 [submodule "Vector"]
 	path = Vector
 	url = https://git.qiuwen.net.cn/Mirror/mediawiki-skins-Vector
-	branch = REL1_41
+	branch = REL1_43
 [submodule "Gongbi"]
 	path = Gongbi
 	url = https://git.qiuwen.net.cn/Qiuwen/mediawiki-skins-Gongbi
