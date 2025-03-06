@@ -1,6 +1,3 @@
-[submodule "Citizen"]
-	path = Citizen
-	url = https://git.qiuwen.net.cn/Fork/mediawiki-skins-Citizen-old
 [submodule "Vector"]
 	path = Vector
 	url = https://git.qiuwen.net.cn/Mirror/mediawiki-skins-Vector
