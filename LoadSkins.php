@@ -6,3 +6,4 @@ wfLoadSkin( 'Citizen', "/www/wwwroot/mw-utils/YsArchives-Skins/Citizen/skin.json
 $wgDefaultSkin = "Citizen";
 $wgCitizenSearchDescriptionSource = "textextracts";
 $wgCitizenEnableCollapsibleSections = false;
+$wgCitizenSearchGateway = "mwActionApi";
