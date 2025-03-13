@@ -7,3 +7,4 @@ $wgDefaultSkin = "Citizen";
 $wgCitizenSearchDescriptionSource = "textextracts";
 $wgCitizenEnableCollapsibleSections = false;
 $wgCitizenSearchGateway = "mwActionApi";
+$wgCitizenSearchModule = "mediawiki.searchSuggest";
