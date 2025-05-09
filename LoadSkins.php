@@ -9,6 +9,7 @@ wfLoadSkin( 'Vector', "/www/wwwroot/mw-utils/YsArchives-Skins/Vector/skin.json" 
 wfLoadSkin( 'Gongbi', "/www/wwwroot/mw-utils/YsArchives-Skins/Gongbi/skin.json" );
 
 $wgDefaultSkin = "Citizen";
-$wgCitizenSearchDescriptionSource = "pagedescription";
+$wgCitizenSearchDescriptionSource = "wikidata";
 $wgCitizenEnableCollapsibleSections = false;
 $wgCitizenThemeColor = "#338c60";
+$wgCitizenMaxSearchResults = 6;
