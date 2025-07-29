@@ -10,6 +10,7 @@ wfLoadSkin( 'Gongbi', "/www/wwwroot/mw-utils/YsArchives-Skins/Gongbi/skin.json" 
 
 $wgDefaultSkin = "Citizen";
 $wgCitizenSearchDescriptionSource = "wikidata";
+$wgCitizenSearchGateway = 'mwActionApi';
 $wgCitizenEnableCollapsibleSections = false;
 $wgCitizenThemeColor = "#338c60";
 $wgCitizenMaxSearchResults = 6;
